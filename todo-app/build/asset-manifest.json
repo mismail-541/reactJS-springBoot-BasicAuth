@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4f2d7d6.chunk.css",
+    "main.js": "/static/js/main.7d32cfc9.chunk.js",
+    "main.js.map": "/static/js/main.7d32cfc9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f7fbb3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f7fbb3e.js.map",
+    "static/css/2.257f4af1.chunk.css": "/static/css/2.257f4af1.chunk.css",
+    "static/js/2.05342e10.chunk.js": "/static/js/2.05342e10.chunk.js",
+    "static/js/2.05342e10.chunk.js.map": "/static/js/2.05342e10.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.76a65fef9acd7b7f67a1808a1991a16c.js": "/precache-manifest.76a65fef9acd7b7f67a1808a1991a16c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.257f4af1.chunk.css.map": "/static/css/2.257f4af1.chunk.css.map",
+    "static/css/main.a4f2d7d6.chunk.css.map": "/static/css/main.a4f2d7d6.chunk.css.map",
+    "static/js/2.05342e10.chunk.js.LICENSE.txt": "/static/js/2.05342e10.chunk.js.LICENSE.txt",
+    "static/media/todos.css": "/static/media/raleway-v14-latin-regular.f6c57152.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f7fbb3e.js",
+    "static/css/2.257f4af1.chunk.css",
+    "static/js/2.05342e10.chunk.js",
+    "static/css/main.a4f2d7d6.chunk.css",
+    "static/js/main.7d32cfc9.chunk.js"
+  ]
+}
